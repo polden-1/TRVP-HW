@@ -1,0 +1,3 @@
+export const INTERVIEW_LENGTH_HOURS = 1;
+
+export const INTERVIEW_LENGTH_MINUTES = 15;
